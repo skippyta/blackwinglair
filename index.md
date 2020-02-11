@@ -79,7 +79,7 @@ The Main tank will be dealing with a Cleave as well as a Mortal Strike that deal
 
 The Main Tank will be knocked away every ~30 seconds and have their threat cut in half so the off tank will need to be ready to pick them up. **DPS will need to start slow for the first knock back**
 
-He will also periodically aoe knockback, which the melee will be hit by.
+He will also periodically aoe knockback, which the melee will be hit by. This is a fire based blastwave and can be avoided by fire protection pots.
 
 The room to fight this boss is tight. The highest priority is not getting knocked back into any respawned trash in the suppression room leading up to this fight.
 
@@ -93,6 +93,8 @@ The room to fight this boss is tight. The highest priority is not getting knocke
 * Spellbinders: Immune to magic, melee focus after Warlocks. Will flamestrike the tank so melee should be max ranging behind them
 
 We will assign 1 tank to each warlock, 1 tank to the Drakonid, and 1 tank to the spellbinder. Hunter(s) and Mage(s) (just a few) will help kite goblins. 
+
+Warlocks can be pre-targetted, so we'll do a pull timer and have all ranged launch spells at the same time to help nuke these.
 
 After warlocks die, melee will prioritize the Spellbinder while ranged will figure out the Drakonid's weakness and kill it. If the Drakonid is resistant to your spells then help kill the goblins.
 
