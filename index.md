@@ -32,7 +32,7 @@ We will stack with ranged near an LOS spot, they will dip out of sight when Voll
 Melee will position on her back leg. 
 
 #### Tanks
-* Tank will get a debuff reducing their hp (Every 45 seconds ish).
+* Tank will get a debuff reducing their hp until they die (Every 45 seconds ish).
 * High threat gen is a must. 2nd tank needs to be right behind main tank on threat at all times
 * 2nd tank must also be ready to get in tank position
 
@@ -110,7 +110,7 @@ Tanks will always want their backs to a wall for these drakes to deal with wing 
 
 This is the hardest 3.
 
-Flamegor will stack up a debuff on all targets in LOS of that increases fire damage taken and leaves a dot.
+Firemaw will stack up a debuff on all targets in LOS of that increases fire damage taken and leaves a dot.
 
 **Main Tank** will wear full fire resist gear so that this debuff drops off on its own for him.
 
