@@ -48,7 +48,7 @@ Melee will position on her back leg.
 * Positioned in a stack with a lane to run out.
 * Periodically (approximately 15 seconds) a ranged player will get a debuff that drains their health but gives them instant cast spells. This player needs to run out of the group far away and pump as much damage as they can before dying in a blaze of glory.
 
-![](pics/vael.png)
+![](pics/Vael.png)
 
 ## Post Vael Trash
 
@@ -125,7 +125,7 @@ Firemaw will stack up a debuff on all targets in LOS of that increases fire dama
 
 **DPS** will need to periodically drop line of sight to let stacks fall off
 
-![](pics/firemaw.png)
+![](pics/Firemaw.png)
 
 #### Ebonroc
 
@@ -162,7 +162,7 @@ At **20%** Chromaggus will permanent enrage, dealing a lot of damage. He needs t
 
 **Casters** will need to pay attention for Shimmer, where Chromaggus will become weak to 1 school of magic. While he is weak it should be exploited at all costs, even if just with a wand. Ideally grab some wands for the elementals you don't have spells for.
 
-![](pics/chromaggus.png)
+![](pics/Chromaggus.png)
 
 ## Nefarian
 
