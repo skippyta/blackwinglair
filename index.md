@@ -11,11 +11,18 @@ One player Controls Razorgore (**Kinny** RG1, **Aresa** RG2)
 * Groups need to *COMMUNICATE* when they're getting overwhelmed. Ideally we have a healer captain on each side calling this
 
 Adds (in priority order):
-<details>1.<summary>**Blackwing Mage** Highest Priority. If they spawn across the room need to be kicked and brought over.</summary>
-![](pics/Blackwing_Mage.png)
-</details>
-2. Dragonspawn. High health high damage adds. Most likely to get out of control.
-3. Legionnaire. Trash mob. Watch for cleave.
+<ol type="1">
+    <details>
+        <li>
+            <summary>**Blackwing Mage** Highest Priority. If they spawn across the room need to be kicked and brought over.</summary>
+            <img src="pics/Blackwing_Mage.jpg" />
+        </li>
+    </details>
+</ol>
+
+</li>
+2. **Blackwing Dragonspawn** High health high damage adds. Most likely to get out of control.
+3. **Blackwing Legionnaire** Trash mob. Watch for cleave.
 
 A **TANK** will take control of razorgore for the last egg so that he has infinity threat going into phase 2
 
