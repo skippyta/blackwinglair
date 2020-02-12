@@ -17,6 +17,8 @@ Adds:
 
 A **TANK** will take control of razorgore for the last egg so that he has infinity threat going into phase 2
 
+![](pics/razorgore-p1.png)
+
 #### Phase 2 - Tank and Spank
 
 **Conflagarate**: Like Drak in UBRS, will disorient and drop threat on primary tank. As he is untauntable the 2nd tank will need to be 2nd on threat.
@@ -24,6 +26,7 @@ A **TANK** will take control of razorgore for the last egg so that he has infini
 **Fireball Volley**: 
 We will stack with ranged near an LOS spot, they will dip out of sight when Volley is cast. Melee just need to deal with it (Fire Protection Pots)
 
+![](pics/razorgore-p2.png)
 
 **NO ONE ENTER THE NEXT ROOM AFTER RAZORGORE, ELEMENTIUM ORE MOBS WILL FLEE, NEED TO BE TAGGED**
 
@@ -44,6 +47,8 @@ Melee will position on her back leg.
 #### Ranged
 * Positioned in a stack with a lane to run out.
 * Periodically (approximately 15 seconds) a ranged player will get a debuff that drains their health but gives them instant cast spells. This player needs to run out of the group far away and pump as much damage as they can before dying in a blaze of glory.
+
+![](pics/vael.png)
 
 ## Post Vael Trash
 
@@ -120,6 +125,7 @@ Firemaw will stack up a debuff on all targets in LOS of that increases fire dama
 
 **DPS** will need to periodically drop line of sight to let stacks fall off
 
+![](pics/firemaw.png)
 
 #### Ebonroc
 
@@ -156,6 +162,8 @@ At **20%** Chromaggus will permanent enrage, dealing a lot of damage. He needs t
 
 **Casters** will need to pay attention for Shimmer, where Chromaggus will become weak to 1 school of magic. While he is weak it should be exploited at all costs, even if just with a wand. Ideally grab some wands for the elementals you don't have spells for.
 
+![](pics/chromaggus.png)
+
 ## Nefarian
 
 #### Phase 1 - Drakonids
@@ -177,6 +185,10 @@ On top of the Chromatic Drakonids, 2 of 5 possible other types of Drakonids will
 From Wowhead:
 As a rule of thumb, Red and Bronze Drakonids should be handled by caster classes, while Black and Blue Drakonids need to be dealt with by melee/hunters. Non-Chromatic Drakonids should not live for very long, while Chromatic Drakonids will need to be properly tanked.
 ```
+
+Additionally During this phase, Nefarian will teleport around and cast shadow bolt and shadow bolt volley. This just needs to be healed.
+
+Nefarian will also periodically mind control raid members. Mind Controlled people need to be CC'd
 
 #### Phase 2 - Nefarian
 At the beginning of phase 2, Nefarian will use shadowflame on the raid.
@@ -207,6 +219,8 @@ Here's a list of these calls, generally ordered by how dangerous they are
 Mages can stand on the opposite side of the boss from the rest of the ranged to avoid polymorphing anyone except themselves, as they shouldn't be taking any damage.
 
 Warlocks can also stand slightly apart from the raid so they don't stun everyone when infernals spawn.
+
+![](pics/nef-p2.png)
 
 #### Phase 3 - The Finale
 At 20%, Nefarian will ressurect all the dead Drakonids as Skeletons. These need to be aoe'd quickly.
